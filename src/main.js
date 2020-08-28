@@ -8,6 +8,8 @@ import './styles/iconfont.css'
 import Vant from 'vant'
 // import { Button } from 'vant'
 import 'vant/lib/index.css'
+// 配置项目的rem
+import 'amfe-flexible'
 
 // 全局的把vant的所有组件都导入好了
 Vue.use(Vant)
